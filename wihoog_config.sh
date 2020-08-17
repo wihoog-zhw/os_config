@@ -1,4 +1,4 @@
- #! /bin/sh
+#! /bin/sh
 #
 # wihoog_config.sh
 # Copyright (C) 2020 wihoog <com>
